@@ -1,0 +1,7 @@
+
+ToDo MPLX
+------------------------------------------------------------------------
++ Implementar timeout 							[DONE]
++ Esconder la llamda a poll con select, epoll y kqueue en BSD		[WORKING]
++ Portar mplx a windoze
+-- EOF --
